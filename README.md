@@ -1,6 +1,6 @@
 - I’m @SimplicioInferenti
 - I’m a lawyer and I'm interested in Legal Tech and Artificial Intelligence
-- I’m currently learning some data science and statistics basics.
+- I’m currently learning data science and statistics.
 - I’m looking to collaborate on Legal Tech projects
 - How to reach me: simplicio@inferenti.org
 
